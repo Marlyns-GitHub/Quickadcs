@@ -3,9 +3,12 @@ Moving beyond password to passwordless
 
 # Overview
 
-Nowadays MFA is not enough to protect you agaisnt phishing attacks.                                                                 Now, All security frameworks pushing all organizations to use phishing-resistant multi-facteur authentification (MFA).              And for good reason, As phishing attacks continue to grow, finding a MFA solution that is unphishable is growing in importance.
+Nowadays MFA is not enough to protect you agaisnt phishing attacks.
+Now, All security frameworks pushing all organizations to use phishing-resistant multi-facteur authentification (MFA).
+And for good reason, As phishing attacks continue to grow, finding a MFA solution that is unphishable is growing in importance.
 
-It can be hard to keep up with what factors are phishable and which are not.                                                        keep in mind, anything that is stored outside the device (a password) or ever is in transit (like a text message) can be phished, whereas things that never leave the device (cryptographic keys) or your body (biometrics) can not.
+It can be hard to keep up with what factors are phishable and which are not.
+keep in mind, anything that is stored outside the device (a password) or ever is in transit (like a text message) can be phished, whereas things that never leave the device (cryptographic keys) or your body (biometrics) can not.
 
 # MFA Factors : Phishable and Unphishable
 
@@ -22,11 +25,13 @@ It can be hard to keep up with what factors are phishable and which are not.    
 
 Before smartcard login certificates can be requested and loaded to YubiKeys, several steps need to be completed, including creating smartcard login templates and publishing the templates in the certification authority.                                              
 
-That's why I wrote Quickadcs, it's a PowerShell script, it helps you to deploy a Public Key Infrastructure, PKI and provisioning a Smartcard certificate template. The idea behind Quickadcs is to simplify implementation of Active Directory Passwordless Authentication with Yubikey.
+That's why I wrote Quickadcs, it's a PowerShell script, it helps you to deploy a Public Key Infrastructure, PKI and provisioning a Smartcard certificate template.
+The idea behind Quickadcs is to simplify implementation of Active Directory Passwordless Authentication with Yubikey.
 
 # Requirements :  Tools and Environments
 
-For the hardware constraint, I used Proxmox VE to complete this test.                                                               You'll find attached a PDF file named additional Yubikey Smartcard to know more about tools I used. Some requirements must be met.
+For the hardware constraint, I used Proxmox VE to complete this test.
+You'll find attached a PDF file named additional Yubikey Smartcard to know more about tools I used. Some requirements must be met.
 
 - Domain Controller
 - YubiKey 5C NFC

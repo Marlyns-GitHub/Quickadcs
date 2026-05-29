@@ -37,9 +37,12 @@ For the hardware constraint, I used Proxmox VE to complete this test.           
 
 # Notice that : 
 
-On the virtual machines these tools must be installed Yubikey minidriver and Spice Guest tool.                                      On the management machine the tools must be installed Yubikey manager-yt and Virt-viewer.                                           You'll find these tools in Tools folder.
+- On the virtual machines these tools must be installed Yubikey minidriver and Spice Guest tool.
+- On the management machine the tools must be installed Yubikey manager-yt and Virt-viewer.
+- You'll find these tools in Tools folder.
 
 # References
+
 - https://github.com/GoateePFE/ADCSTemplate
 - https://www.yubico.com/
 - https://support.yubico.com/s/article/Setting-up-Windows-Server-for-YubiKey-PIV-authentication

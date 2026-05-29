@@ -54,3 +54,5 @@ You'll find attached a PDF file named additional Yubikey Smartcard to know more 
 - https://www.yubico.com/
 - https://support.yubico.com/s/article/Setting-up-Windows-Server-for-YubiKey-PIV-authentication
 - https://www.corbado.com/blog/passkeys-passwordless-phishing-resistant-mfa
+- https://virt-manager.org/download
+- https://developers.yubico.com/yubikey-manager/Releases/

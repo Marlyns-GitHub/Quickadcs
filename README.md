@@ -28,6 +28,8 @@ Before smartcard login certificates can be requested and loaded to YubiKeys, sev
 That's why I wrote Quickadcs, it's a PowerShell script, it helps you to deploy a Public Key Infrastructure, PKI and provisioning a Smartcard certificate template.
 The idea behind Quickadcs is to simplify implementation of Active Directory Passwordless Authentication with Yubikey.
 
+<img width="1293" height="666" alt="Image" src="https://github.com/user-attachments/assets/4a5c349f-6530-4d3b-a112-35103fb4280b" />
+
 # Requirements :  Tools and Environments
 
 For the hardware constraint, I used Proxmox VE to complete this test.

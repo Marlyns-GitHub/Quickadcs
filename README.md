@@ -41,6 +41,8 @@ For the hardware constraint, I used Proxmox VE to complete this test.           
 - On the management machine the tools must be installed Yubikey manager-yt and Virt-viewer.
 - You'll find these tools in Tools folder.
 
+<img width="1150" height="447" alt="Image" src="https://github.com/user-attachments/assets/db306b24-1683-4c17-ae71-effb5ea3a9d8" />
+
 # References
 
 - https://github.com/GoateePFE/ADCSTemplate

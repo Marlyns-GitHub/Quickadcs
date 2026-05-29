@@ -26,7 +26,7 @@ That's why I wrote Quickadcs, it's a PowerShell script, it helps you to deploy a
 
 # Requirements :  Tools and Environments
 
-For the hardware constraint, I used Proxmox VE to complete this test.                                                               You'll find attached a PDF file named additional Yubikey Passwordless to know more about tools I used. Some requirements must be met.
+For the hardware constraint, I used Proxmox VE to complete this test.                                                               You'll find attached a PDF file named additional Yubikey Smartcard to know more about tools I used. Some requirements must be met.
 
 - Domain Controller
 - YubiKey 5C NFC
